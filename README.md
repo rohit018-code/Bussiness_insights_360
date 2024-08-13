@@ -61,9 +61,6 @@ This project showcases a comprehensive Power BI dashboard created for Atliq Hard
   - Lead Time Analysis
   - Order Fulfillment Rates
 
-
-2. Open the Power BI file (`.pbix`) in Power BI Desktop.
-
 ## Usage
 
 The dashboard is designed to be intuitive, but here are a few tips:
@@ -74,4 +71,4 @@ The dashboard is designed to be intuitive, but here are a few tips:
 
 ## Contact
 
-For questions or feedback, please reach out to me at [your.email@example.com](mailto:rjagdale854@gmail.com)
+For questions or feedback, please reach out to me at [rjagdale854@gmail.com]
