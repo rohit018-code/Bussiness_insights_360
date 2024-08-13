@@ -14,7 +14,7 @@ This project showcases a comprehensive Power BI dashboard created for Atliq Hard
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Views](#views)
-  - [Finance View](#[finance-view](https://github.com/rohit018-code/Bussiness_insights_360/blob/main/Finance_View.pdf))
+  - [Finance View](#finance-view)
   - [Marketing View](#marketing-view)
   - [Sales View](#Sales-view)
   - [Supply Chain View](#supply-chain-view)
