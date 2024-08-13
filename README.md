@@ -1,7 +1,3 @@
-Here's a sample README file for your Power BI project on GitHub:
-
----
-
 # Atliq Hardware Power BI Project
 
 ## Project Overview
@@ -65,17 +61,8 @@ This project showcases a comprehensive Power BI dashboard created for Atliq Hard
   - Lead Time Analysis
   - Order Fulfillment Rates
 
-## Data Sources
 
-The data used in this project is sourced from various internal systems and external data feeds, ensuring accuracy and reliability.
-
-## Getting Started
-
-To view the dashboard:
-
-1. Clone this repository: `git clone https://github.com/yourusername/atliq-hardware-powerbi.git`
 2. Open the Power BI file (`.pbix`) in Power BI Desktop.
-3. Ensure all data connections are properly configured.
 
 ## Usage
 
@@ -87,8 +74,4 @@ The dashboard is designed to be intuitive, but here are a few tips:
 
 ## Contact
 
-For questions or feedback, please reach out to me at [your.email@example.com](mailto:your.email@example.com).
-
----
-
-Feel free to adjust any sections to better fit your project's specifics!
+For questions or feedback, please reach out to me at [your.email@example.com](mailto:rjagdale854@gmail.com)
